@@ -135,7 +135,7 @@ nav {
    untuk pengguna vscode silahkan arahkan mouse ke kotak warna di bawah
    untuk mengganti warna sesuai keinginan
    */
-   background-color: #198754;
+   background-color: #da570c;
 
    /* box-shadow membuat efek bayangan */
    box-shadow: 0 3px 7px -2px #000;
@@ -390,7 +390,7 @@ section.about-us p:nth-child(4) {
 /* OUR TEAM */
 
 section.our-team {
-   background-color: #EEE6DC;
+   background-color: #ebeedc;
    box-shadow: inset 0px 0px 23px -6px #707070;
    text-align: center;
 }
